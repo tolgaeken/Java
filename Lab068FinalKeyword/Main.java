@@ -1,4 +1,4 @@
-package mmc.lab.Lab068FinalKeyword;
+package mmc.lab.lab068FinalKeyword;
 
 public class Main {
     public static void main(String[] args) {

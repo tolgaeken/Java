@@ -1,4 +1,4 @@
-package mmc.lab.Lab068FinalKeyword;
+package mmc.lab.lab068FinalKeyword;
 
 public class FinalTest {
     public final int objeSayisi;
