@@ -2,7 +2,7 @@ package lab11Multithreading.S08ReentrantLock;
 
 public class Main {
     public static void main(String[] args) {
-        ReentrantLock re = new ReentrantLock();
+        ReentrantLockClass re = new ReentrantLockClass();
 
         Thread thread1 = new Thread(new Runnable() {
             @Override
