@@ -1,0 +1,26 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£üÂø
+b
+java:S2095_"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ
+s
+java:S14507"XRemove the "statement" field and declare it as a local variable in the relevant methods.(„£„÷øÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(€Ôœ×úÿÿÿÿ8ˆ‰øÛš0
+H
+java:S4925D"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(Àº‚ıÿÿÿÿ
+?
+java:S2115J")Add password protection to this database.(Ö‚Ò¤
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(·¥¦
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(îâÄıÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ûÍòûÿÿÿÿ
+X
+java:S1117_"=Rename "statement" which hides the field declared at line 55.(ùÃ›ßúÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(ªõÓ“
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(”Î·¯
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(¡«î­
+>	java:S108s")Either remove or fill this block of code.(É®£
+V	java:S125y"<This block of commented-out lines of code should be removed.(ÇÓÀøÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(áü•¾şÿÿÿÿ
+?	java:S108ˆ")Either remove or fill this block of code.(É®£
+P
+java:S10688"5Remove this unused "preparedStatement" private field.(¿ä Óşÿÿÿÿ

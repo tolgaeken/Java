@@ -1,0 +1,8 @@
+
+o
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(«θ…¶
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΎΚι
+V	java:S125"<This block of commented-out lines of code should be removed.(ª‚ρ»ώÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(Εφ–ξύÿÿÿÿ
+t
+java:S1210X"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(£τωÿÿÿÿ

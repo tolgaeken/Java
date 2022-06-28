@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¤¶¿ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å•à€ýÿÿÿÿ
+X
+java:S1117"BRename "privateDegisken" which hides the field declared at line 4.(®Óì¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…¯©“ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‰û§þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³¢Âæûÿÿÿÿ
